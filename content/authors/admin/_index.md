@@ -90,12 +90,12 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Shortlist of Guo moruo scholarship
-    date: '2024'
+    date: '2024-03-01'
     awarder: USTC
     summary: |
       Highest Honor for USTC undergraduate
   - title: Presidential graduate fellowship
-    date: '2024'
+    date: '2024-08-05'
     awarder: NUS
     summary: |
       Highest type of scholarship for Ph.D. in NUS
