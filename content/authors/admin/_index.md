@@ -92,5 +92,6 @@ languages:
 
 ---
 
-I am currently PhD candidate at NUS statistics department. I'm interested in exploring the intersection of statistics and AI, especially about LLM.
+I am currently PhD candidate at NUS statistics department. I'm interested in exploring the intersection of statistics and AI, especially about LLM. \\
+
 About teaching: I believe teaching is a science, just like research. It's not easy to efficiently communicate and pass information with others, and it could be more chanllenging to take dominant role in discussion.
