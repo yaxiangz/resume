@@ -38,7 +38,8 @@ education:
     date_start: 2024-08-05
     date_end: 2028-06-01 
     summary: |
-      Still enrolling. End date is expected date.
+      o	Presidential graduate fellowship from NUS (Highest type of scholarship for Ph.D. in NUS) 
+      o Still enrolling. End date is expected date.
 
 
   - area: BSc in statistics
@@ -89,7 +90,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
+---
 
-
-I am currently PhD candidate at NUS statistics department. I'm interested in exploring the intersection of statistics and AI, especially about LLM. 
+I am currently PhD candidate at NUS statistics department. I'm interested in exploring the intersection of statistics and AI, especially about LLM.
 About teaching: I believe teaching is a science, just like research. It's not easy to efficiently communicate and pass information with others, and it could be more chanllenging to take dominant role in discussion.
