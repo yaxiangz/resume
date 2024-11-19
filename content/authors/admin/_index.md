@@ -82,7 +82,7 @@ languages:
   - name: English
     percent: 75
   - name: German
-    percent: 25
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
