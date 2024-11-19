@@ -38,7 +38,6 @@ education:
     date_start: 2024-08-05
     date_end: 2028-06-01 
     summary: |
-      • Presidential graduate fellowship from NUS (Highest type of scholarship for Ph.D. in NUS)  
       • Still enrolling. End date is expected date.
 
 
@@ -50,7 +49,6 @@ education:
       GPA: 3.93/4.0
       
       •	Rank: 1st /20, Among students in the School of the Gifted Young (the Honor school) majoring statistics
-      •	In Shortlist of Guo moruo scholarship (Highest Honor for USTC undergraduate)	 
 
 work:
 
